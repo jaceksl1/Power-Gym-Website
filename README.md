@@ -4,4 +4,4 @@
   => https://cdnjs.com/libraries/aos
 - Tailwind
 
-![image](https://user-images.githubusercontent.com/87030915/147874200-8b3d5bb5-25ff-4d77-a3ef-ceb2e7af1fa7.png)
+![ezgif-6-ddf4740900](https://user-images.githubusercontent.com/87030915/147874212-f2c25176-3e16-42c6-ad41-b7990e898fc9.gif)
